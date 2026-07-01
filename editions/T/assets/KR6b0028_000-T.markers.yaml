@@ -1,0 +1,9 @@
+canonical_identifier: bkk:krp/KR6b0028/T/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: line-break, offset: 0, content: '', id: KR6b0028_T_000-0440a13, ed: T, 'n': 0440a13}
+  - {type: line-break, offset: 0, content: '', id: KR6b0028_T_000-0440a14, ed: T, 'n': 0440a14}
+  body: []
+  back: []
+hash: sha256:84f6fa824fcc466a81b0e172d87149bee47ed05bbd4a69a44455be2242d607d8
